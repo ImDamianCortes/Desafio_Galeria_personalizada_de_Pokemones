@@ -29,8 +29,6 @@ imagen  de  los  pokemones  como  una  galería  de  150  pokemones.  
 puedes tener una referencia de cómo se deberá ver la galería.
 
 Requerimientos
-
-Requerimientos
  
 1.   Hacer  uso  de  Async/Await  para  las  funciones  que  consulten  los  endpoints  de  la 
 pokeapi.  
@@ -39,3 +37,7 @@ generando un nuevo arreglo con la data a entregar en el siguiente requerimiento.
 3. Disponibilizar la ruta http://localhost:3000/pokemones que devuelva un JSON con el 
 nombre  y  la  url  de  una  imagen  de  150  pokemones,  asi  como verás en la siguiente 
 imagen.  
+
+GitHub Page
+
+https://imdamiancortes.github.io/Desafio_Galeria_personalizada_de_Pokemones/
