@@ -20,7 +20,7 @@
     <script>
       let div = document.getElementById('Pokemones')
       let spinner = document.getElementById('spinner')
-      fetch('http://localhost:3000/pokemones')
+      fetch('https://imdamian-pokemones.herokuapp.com/pokemones')
         .then((res) => res.json())
         .then((pokemones) => {
           console.log(pokemones)
